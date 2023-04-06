@@ -1,0 +1,9 @@
+Sujan,Ktm,sujan@gmail.com,9800099878,Male,2000-02-15,cranky,Hello@1234,False,Verifiediedied
+Sagar,Thimi,sagar@gmail.com,2456454444,Male,2000-02-01,sagar,Itssagar@1,False,Verifiedied
+Khendo,Ktm,khens@gmail.com,3,Female,2001-02-04,khens,Khens@123,False,Verifiedied
+Prasanna,Bhaktapur,pj@gmail.com,987854521,Male,2000-05-06,pj,Pr@sanna1,False,Verifiedied
+Sujan,Ktm,Sujan@gmail.com,9654845214,Male,1999-11-20,sujan,Sujan@2000,False,Verifiedied
+Sujan Shrestha,Thali,sujan33@gmail.com,9865422154,Male,2001-05-09,sujan123,Hello@321,False,False
+Khendo Lama,Thali,Khens@gmial.com,9854625415,Female,2000-02-05,Khens,Hello@123,False,False
+Ram,Ktm,sadsdasd,9854612345,Male,2000-12-01,ram,R@m12345,False,Verified
+Sujan,Ktm,sujan@gmail.com,954851515115,Male,2000-02-15,crankys,Hello@12345,False,Verified
